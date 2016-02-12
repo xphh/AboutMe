@@ -1,2 +1,2 @@
-# aboutme
-self introduction
+# About me
+see WiKi pages!
